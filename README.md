@@ -11,6 +11,13 @@ A simple and clean to-do list mobile application built with Flutter. This app he
 - 🎯 **Drag Handle**: Visual indicator for potential reordering (UI ready)
 - 📱 **Clean UI**: Simple and intuitive user interface
 
+## 💡 How to Use
+
+1. **Add a Task**: Tap the "Add new" button at the bottom to create a new task
+2. **Edit a Task**: Tap on any task text to edit it
+3. **Mark as Complete**: Tap the checkbox next to a task to mark it as complete
+4. **Delete a Task**: Tap the × icon on the right to remove a task
+
 ## 🛠️ Technologies Used
 
 - **Flutter**: Cross-platform mobile framework
@@ -20,15 +27,10 @@ A simple and clean to-do list mobile application built with Flutter. This app he
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.png" width="250" alt="Home Screen"/>
-  <img src="screenshots/add_task.png" width="250" alt="Add Task"/>
+  <img src="screenshots/empty_tasks.png" width="250" alt="Home Screen"/>
+  <img src="screenshots/tasks.png" width="250" alt="Add Task"/>
   <img src="screenshots/completed_task.png" width="250" alt="Completed Task"/>
 </div>
-
-> **Note**: Add your app screenshots in the `screenshots/` folder with the following names:
-> - `home_screen.png` - Main screen with task list
-> - `add_task.png` - Adding a new task
-> - `completed_task.png` - Task marked as complete
 
 ## 🏗️ Architecture
 
@@ -61,7 +63,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ahmedasaber/tasks.git
    cd tasks
    ```
 
@@ -84,13 +86,6 @@ lib/
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60">](YOUR_APP_STORE_LINK_HERE)
 
 > **Note**: Replace `YOUR_PLAY_STORE_LINK_HERE` and `YOUR_APP_STORE_LINK_HERE` with your actual app store links.
-
-## 💡 How to Use
-
-1. **Add a Task**: Tap the "Add new" button at the bottom to create a new task
-2. **Edit a Task**: Tap on any task text to edit it
-3. **Mark as Complete**: Tap the checkbox next to a task to mark it as complete
-4. **Delete a Task**: Tap the × icon on the right to remove a task
 
 ## 🧪 Testing
 
@@ -133,8 +128,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [ahmedasaber](https://github.com/ahmedasaber)
+- LinkedIn: [Ahmed Ashraf](https://linkedin.com/in/ahmedashrafsaber)
 
 ## 🙏 Acknowledgments
 
