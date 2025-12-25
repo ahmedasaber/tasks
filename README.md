@@ -18,12 +18,6 @@ A simple and clean to-do list mobile application built with Flutter. This app he
 3. **Mark as Complete**: Tap the checkbox next to a task to mark it as complete
 4. **Delete a Task**: Tap the × icon on the right to remove a task
 
-## 🛠️ Technologies Used
-
-- **Flutter**: Cross-platform mobile framework
-- **flutter_bloc**: State management with BLoC pattern
-- **Dart**: Programming language
-
 ## 📸 Screenshots
 
 <div align="center">
@@ -31,6 +25,12 @@ A simple and clean to-do list mobile application built with Flutter. This app he
   <img src="screenshots/tasks.png" width="250" alt="Add Task"/>
   <img src="screenshots/completed_task.png" width="250" alt="Completed Task"/>
 </div>
+
+## 🛠️ Technologies Used
+
+- **Flutter**: Cross-platform mobile framework
+- **flutter_bloc**: State management with BLoC pattern
+- **Dart**: Programming language
 
 ## 🏗️ Architecture
 
@@ -77,16 +77,6 @@ lib/
    flutter run
    ```
 
-## 📱 Download the App
-
-### Android
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](YOUR_PLAY_STORE_LINK_HERE)
-
-### iOS
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60">](YOUR_APP_STORE_LINK_HERE)
-
-> **Note**: Replace `YOUR_PLAY_STORE_LINK_HERE` and `YOUR_APP_STORE_LINK_HERE` with your actual app store links.
-
 ## 🧪 Testing
 
 Run the tests using:
@@ -131,11 +121,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub: [ahmedasaber](https://github.com/ahmedasaber)
 - LinkedIn: [Ahmed Ashraf](https://linkedin.com/in/ahmedashrafsaber)
 
-## 🙏 Acknowledgments
+## 🔗 Download & Try
 
-- Flutter team for the amazing framework
-- flutter_bloc for state management solution
-- Icons from Material Design and Cupertino
+[Tasks APK](release/app-arm64-v8a-release.apk)
 
 ---
 
